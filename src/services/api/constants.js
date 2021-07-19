@@ -1,0 +1,1 @@
+export const API_URL = "https://us-central1-amgwf-70a28.cloudfunctions.net"  //production
